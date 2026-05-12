@@ -61,6 +61,9 @@ The application supports natural language chat, tool calling, Retrieval-Augmente
   Add observability and tracing for AI calls
   Improve prompt safety using guardrails
 
+## Demo 
+<video src="assets/Demo.mp4" controls width="700"></video>
+
 ## System Architecture
 
 ```mermaid
