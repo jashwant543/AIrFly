@@ -61,8 +61,11 @@ The application supports natural language chat, tool calling, Retrieval-Augmente
   Add observability and tracing for AI calls
   Improve prompt safety using guardrails
 
-## Demo 
-<video src="assets/Demo.mp4" controls width="700"></video>
+## Demo
+
+<video width="700" controls>
+  <source src="https://raw.githubusercontent.com/jashwant543/AIrFly/main/assets/Demo.mp4" type="video/mp4">
+</video>
 
 ## System Architecture
 
